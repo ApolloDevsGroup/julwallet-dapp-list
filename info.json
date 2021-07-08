@@ -1,0 +1,238 @@
+
+{
+    "Hot": [
+        {
+            "url": "https://instant.airswap.io/",
+            "name": "AirSwap",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://app.auctionity.com/",
+            "name": "Auctionity",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://dev.augur.net/",
+            "name": "Augur",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://mainnet.aragon.org/",
+            "name": "Aragon",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://www.bancor.network/",
+            "name": "Bancor",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://blockchaincuties.com/",
+            "name": "Blockchain Cuties",
+            "logo": "logo.png"
+        }],
+    "Favorites":
+        [{
+            "url": "https://bounties.network/",
+            "name": "Bounties Network",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://breaker.io/",
+            "name": "Breaker",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://beta.cent.co",
+            "name": "Cent",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://chibifighters.io",
+            "name": "Chibi Fighters",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://compound.finance/",
+            "name": "Compound",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://cryptoassault.io/",
+            "name": "CryptoAssault",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://www.cryptokitties.co",
+            "name": "CryptoKitties",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://www.larvalabs.com/cryptopunks",
+            "name": "Cryptopunks",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://dai.makerdao.com/",
+            "name": "DAI Dashboard",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://market.decentraland.org/",
+            "name": "Decentraland",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://democracy.earth/",
+            "name": "Democracy.Earth",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://dapp.dragonereum.io/",
+            "name": "Dragonereum",
+            "logo": "logo.png"
+        }],
+    "BSC" : 
+        [{
+            "url": "https://ens.domains/",
+            "name": "Ethereum Name Service",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://www.etheremon.com/",
+            "name": "Ethermon",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://etherscan.io/",
+            "name": "EtherScan",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://eth2.io/",
+            "name": "Eth2",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://map.foam.space/",
+            "name": "FOAM",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://gitcoin.co",
+            "name": "Gitcoin",
+            "logo": "logo.png"
+        }],
+    "ETH":
+        [{
+            "url": "https://giveth.io/donate/",
+            "name": "Giveth",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://godsunchained.com/",
+            "name": "Gods Unchained",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://hyperdragons.alfakingdom.com/guide",
+            "name": "HyperDragons",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://idex.market/",
+            "name": "IDEX",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://gitcoin.co/kudos/marketplace/",
+            "name": "Kudos",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://kyber.network/",
+            "name": "KyberNetwork",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://localethereum.com/r/sotd",
+            "name": "localethereum",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://cdp.makerdao.com/",
+            "name": "MakerDAO CDP",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://marble.cards/",
+            "name": "Marblecards",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://metamask.io/",
+            "name": "MetaMask",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://faucet.metamask.io/",
+            "name": "Metamask Ether Faucet (Ropsten)",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://www.minds.com/",
+            "name": "Minds",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://www.mlbcryptobaseball.com/",
+            "name": "MLB Crypto Baseball",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://www.mycryptoheroes.net/",
+            "name": "My Crypto Heroes",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://opensea.io/",
+            "name": "OpenSea",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://www.0xproject.com/portal",
+            "name": "0x",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://0xuniverse.com/",
+            "name": "OxUniverse",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://peepeth.com/",
+            "name": "Peepeth",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://faucet.ropsten.be/",
+            "name": "Ropsten Ethereum Faucet",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://superrare.co/",
+            "name": "SuperRare",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://uniswap.exchange/",
+            "name": "Uniswap",
+            "logo": "logo.png"
+        },
+        {
+            "url": "https://3box.io/",
+            "name": "3Box",
+            "logo": "logo.png"
+        }
+    ]
+}
