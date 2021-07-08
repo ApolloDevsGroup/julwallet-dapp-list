@@ -34,11 +34,6 @@
             "logo": "https://github.com/trustwallet/assets/blob/master/dapps/compound.finance.png"
         },
         {
-            "url": "https://cryptoassault.io/",
-            "name": "CryptoAssault",
-            "logo": "logo.png"
-        },
-        {
             "url": "https://dai.makerdao.com/",
             "name": "DAI Dashboard",
             "logo": "https://github.com/trustwallet/assets/blob/master/dapps/cdp.makerdao.png"
