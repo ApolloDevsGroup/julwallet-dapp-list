@@ -4,106 +4,106 @@
         {
             "url": "https://instant.airswap.io/",
             "name": "AirSwap",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/instant.airswap.io.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/instant.airswap.io.png"
         },
         {
             "url": "https://www.bancor.network/",
             "name": "Bancor",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/bancor.network.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/bancor.network.png"
         },
         {
             "url": "https://blockchaincuties.com/",
             "name": "Blockchain Cuties",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/blockchaincuties.co.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/blockchaincuties.co.png"
         }],
     "Favorites":
         [
         {
             "url": "https://beta.cent.co",
             "name": "Cent",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/beta.cent.co.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/beta.cent.co.png"
         },
         {
             "url": "https://chibifighters.io",
             "name": "Chibi Fighters",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/chibifighters.io.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/chibifighters.io.png"
         },
         {
             "url": "https://compound.finance/",
             "name": "Compound",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/compound.finance.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/compound.finance.png"
         },
         {
             "url": "https://dai.makerdao.com/",
             "name": "DAI Dashboard",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/cdp.makerdao.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/cdp.makerdao.png"
         },
         {
             "url": "https://market.decentraland.org/",
             "name": "Decentraland",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/market.decentraland.org.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/market.decentraland.org.png"
         },
         {
             "url": "https://dapp.dragonereum.io/",
             "name": "Dragonereum",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/dapp.dragonereum.io.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/dapp.dragonereum.io.png"
         }],
     "BSC" : 
         [{
             "url": "https://ens.domains/",
             "name": "Ethereum Name Service",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/ens.domains.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/ens.domains.png"
         },
         {
             "url": "https://etherscan.io/",
             "name": "EtherScan",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/etherscan.io.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/etherscan.io.png"
         },
         {
             "url": "https://eth2.io/",
             "name": "Eth2",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/eth2.io.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/eth2.io.png"
         },
         {
             "url": "https://map.foam.space/",
             "name": "FOAM",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/foam.tools.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/foam.tools.png"
         }],
     "ETH":
         [{
             "url": "https://idex.market/",
             "name": "IDEX",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/idex.market.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/idex.market.png"
         },
         {
             "url": "https://localethereum.com/r/sotd",
             "name": "localethereum",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/localethereum.com.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/localethereum.com.png"
         },
         {
             "url": "https://cdp.makerdao.com/",
             "name": "MakerDAO CDP",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/cdp.makerdao.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/cdp.makerdao.png"
         },
         {
             "url": "https://www.mycryptoheroes.net/",
             "name": "My Crypto Heroes",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/mycryptoheroes.net.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/mycryptoheroes.net.png"
         },
         {
             "url": "https://opensea.io/",
             "name": "OpenSea",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/opensea.io.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/opensea.io.png"
         },
         {
             "url": "https://peepeth.com/",
             "name": "Peepeth",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/peepeth.com.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/peepeth.com.png"
         },
         {
             "url": "https://uniswap.exchange/",
             "name": "Uniswap",
-            "logo": "https://github.com/trustwallet/assets/blob/master/dapps/uniswap.io.png"
+            "logo": "https://raw.githubusercontent.com/trustwallet/assets/blob/master/dapps/uniswap.io.png"
         }
     ]
 }
