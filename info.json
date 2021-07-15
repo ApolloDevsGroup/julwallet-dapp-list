@@ -1,127 +1,1199 @@
 
 {
-    "BSC": [
+    "EXCHANGE": [
         {
-            "url": "https://instant.airswap.io/",
-            "name": "AirSwap",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/instant.airswap.io.png",
+            "url": "https://app.uniswap.org/#/swap",
+            "name": "Uniswap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Uniswap.jpg",
             "hot": 1
         },
         {
-            "url": "https://www.bancor.network/",
-            "name": "Bancor",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/bancor.network.png",
-            "hot": 0
-        },
-        {
-            "url": "https://blockchaincuties.com/",
-            "name": "Blockchain Cuties",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/blockchaincuties.co.png",
-            "hot": 0
-        },
-        {
-            "url": "https://beta.cent.co",
-            "name": "Cent",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/beta.cent.co.png",
+            "url": "https://sushi.com/",
+            "name": "SushiSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/SushiSwap.png",
             "hot": 1
         },
         {
-            "url": "https://chibifighters.io",
-            "name": "Chibi Fighters",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/chibifighters.io.png",
+            "url": "ParaSwap.io",
+            "name": "ParaSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ParaSwap.io.png",
             "hot": 1
         },
         {
-            "url": "https://compound.finance/",
-            "name": "Compound",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/compound.finance.png",
+            "url": "https://crypto.com/defi/swap",
+            "name": "Crypto.com DeFi Swap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Crypto.comDeFiSwap.png",
             "hot": 1
         },
         {
-            "url": "https://dai.makerdao.com/",
-            "name": "DAI Dashboard",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/cdp.makerdao.png",
+            "url": "https://tokenlon.im/",
+            "name": "Tokenlon",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Tokenlon.jpg",
             "hot": 1
         },
         {
-            "url": "https://market.decentraland.org/",
-            "name": "Decentraland",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/market.decentraland.org.png",
+            "url": "https://swap.blocto.app/#/swap",
+            "name": "BloctoSwap (Ethereum)",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BloctoSwap(Ethereum).png",
             "hot": 1
         },
         {
-            "url": "https://dapp.dragonereum.io/",
-            "name": "Dragonereum",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/dapp.dragonereum.io.png",
-            "hot": 1
-        }],
-    "ETH" : 
-        [{
-            "url": "https://ens.domains/",
-            "name": "Ethereum Name Service",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/ens.domains.png",
-            "hot": 0
-        },
-        {
-            "url": "https://etherscan.io/",
-            "name": "EtherScan",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/etherscan.io.png",
+            "url": "https://balancer.fi/",
+            "name": "Balancer",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Balancer.png",
             "hot": 1
         },
         {
-            "url": "https://eth2.io/",
-            "name": "Eth2",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/eth2.io.png",
+            "url": "https://www.defiplaza.net/",
+            "name": "DeFi Plaza",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/DeFiPlaza.jpg",
             "hot": 1
         },
         {
-            "url": "https://map.foam.space/",
-            "name": "FOAM",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/foam.tools.png",
-            "hot": 1
-        }],
-    "NFT":
-        [{
-            "url": "https://idex.market/",
-            "name": "IDEX",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/idex.market.png",
+            "url": "https://www.unic.ly/",
+            "name": "Unicly",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Unicly.png",
             "hot": 1
         },
         {
-            "url": "https://localethereum.com/r/sotd",
-            "name": "localethereum",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/localethereum.com.png",
+            "url": "https://matcha.xyz/",
+            "name": "Matcha",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Matcha.png",
             "hot": 1
         },
         {
-            "url": "https://cdp.makerdao.com/",
-            "name": "MakerDAO CDP",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/cdp.makerdao.png",
+            "url": "https://uniswap.org/",
+            "name": "Uniswap V1",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/UniswapV1.jpg",
+            "hot": 1
+        },
+        {
+            "url": "DEX.AG",
+            "name": "DEX.AG",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/DEX.AG.png",
+            "hot": 1
+        },
+        {
+            "url": "https://openocean.finance/",
+            "name": "OpenOcean ETH",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/OpenOceanETH.png",
+            "hot": 1
+        },
+        {
+            "url": "https://forkdelta.app/",
+            "name": "ForkDelta",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ForkDelta.png",
+            "hot": 1
+        },
+        {
+            "url": "https://totle.exchange/",
+            "name": "Totle Swap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/TotleSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.dodoex.io/",
+            "name": "DODO",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/DODO.png",
+            "hot": 1
+        },
+        {
+            "url": "https://dex.polyient.games/#/swap",
+            "name": "Polyient DEX",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PolyientDEX.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://app.kwikswap.org/#/swap",
+            "name": "KwikSwap Protocol",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/KwikSwapProtocol.png",
+            "hot": 1
+        },
+        {
+            "url": "https://linkswap.app/#/swap",
+            "name": "LinkSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/LinkSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://capitaldex.exchange/",
+            "name": "Capital DEX",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CapitalDEX.png",
+            "hot": 1
+        },
+        {
+            "url": "https://1inch.exchange/#/",
+            "name": "1inch Network on Ethereum",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/1inchNetworkonEthereum.png",
+            "hot": 1
+        },
+        {
+            "url": "julswap.com",
+            "name": "Julswap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Julswap.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://wault.finance/",
+            "name": "WaultSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/WaultSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://openocean.finance/",
+            "name": "OpenOcean BSC",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/OpenOceanBSC.png",
+            "hot": 1
+        },
+        {
+            "url": "https://bogged.finance/",
+            "name": "Bogged.Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Bogged.Finance.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://neverswap.com/#/",
+            "name": "Neverswap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Neverswap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://jetswap.finance/",
+            "name": "Jetswap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Jetswap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://paraswap.io/#/?network=ethereum",
+            "name": "ParaSwap BSC",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ParaSwapBSC.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.pandaswap.xyz/#/",
+            "name": "Pandaswap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Pandaswap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://nerve.fi/",
+            "name": "Nerve",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Nerve.png",
+            "hot": 1
+        },
+        {
+            "url": "https://dfuture.com/",
+            "name": "dFuture",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/dFuture.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.sabertoothswap.com/",
+            "name": "SabertoothSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/SabertoothSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://benswap.finance/",
+            "name": "BenSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BenSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://swap.arken.finance/",
+            "name": "ARKEN Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ARKENFinance.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://swapx.launchzone.org/",
+            "name": "Bscex SwapX",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BscexSwapX.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://cheeseswap.app/",
+            "name": "CheeseSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CheeseSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://main.ddexx.io/",
+            "name": "dDEXX",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/dDEXX.png",
+            "hot": 1
+        },
+        {
+            "url": "https://easyswap.finance/",
+            "name": "EasySwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/EasySwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://dapp.satoroswap.finance/",
+            "name": "SatoroSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/SatoroSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://swap.trading-tigers.com/",
+            "name": "TradingTigers Swap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/TradingTigersSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://bscswap.com/",
+            "name": "BSCswap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BSCswap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.1inch.io/#/56/swap/BNB/1INCH",
+            "name": "1inch Network on BSC",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/1inchNetworkonBSC.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.bakeryswap.org/",
+            "name": "DeFi",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/DeFi.png",
+            "hot": 1
+        },
+        {
+            "url": "https://pancakeswap.finance/",
+            "name": "PancakeSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PancakeSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://quickswap.exchange/",
+            "name": "QuickSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/QuickSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.sushi.com/swap",
+            "name": "Sushiswap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Sushiswap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://dfyn.network/",
+            "name": "Dfyn Network",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/DfynNetwork.png",
+            "hot": 1
+        },
+        {
+            "url": "https://apeswap.finance/",
+            "name": "ApeSwap.Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ApeSwap.Finance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://paraswap.io/#/?network=ethereum",
+            "name": "ParaSwap Polygon",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ParaSwapPolygon.png",
+            "hot": 1
+        },
+        {
+            "url": "https://swap.cometh.io/",
+            "name": "ComethSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ComethSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://farm.polyzap.finance/?ref=0x86c94638eD7BaB30fA72efdE0975600F74762cA4",
+            "name": "PolyZap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PolyZap.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://www.polydex.fi/",
+            "name": "PolyDEX",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PolyDEX.png",
+            "hot": 1
+        },
+        {
+            "url": "https://openocean.finance/",
+            "name": "OpenOcean Polygon",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/OpenOceanPolygon.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.swap.smartdex.app/#/swap",
+            "name": "smartdex",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/smartdex.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://swap.arken.finance/",
+            "name": "ARKEN Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ARKEN Finance.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://jelly.market/",
+            "name": "JellySwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/JellySwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.1inch.io/#/137/swap/MATIC/DAI",
+            "name": "1inch Network on Polygon",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/1inchNetworkonPolygon.png",
+            "hot": 1
+        }
+    ],
+    "GAME" : 
+        [
+        {
+            "url": "https://axieinfinity.com/",
+            "name": "AxieInfinity",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/AxieInfinity.png",
+            "hot": 1
+        },
+        {
+            "url": "https://sorare.com/",
+            "name": "Sorare",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Sorare.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://www.cryptokitties.co/",
+            "name": "CryptoKitties",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CryptoKitties.png",
+            "hot": 1
+        },
+        {
+            "url": "https://mooncatrescue.com/",
+            "name": "MoonCatRescue",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/MoonCatRescue.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://voxies.io/",
+            "name": "Voxies",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Voxies.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://www.sandbox.game/en/",
+            "name": "The Sandbox",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/TheSandbox.png",
             "hot": 1
         },
         {
             "url": "https://www.mycryptoheroes.net/",
             "name": "My Crypto Heroes",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/mycryptoheroes.net.png",
-            "hot": 0
-        },
-        {
-            "url": "https://opensea.io/",
-            "name": "OpenSea",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/opensea.io.png",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/MyCryptoHeroes.jpg",
             "hot": 1
         },
         {
-            "url": "https://peepeth.com/",
-            "name": "Peepeth",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/peepeth.com.png",
+            "url": "https://www.f1deltatime.com/",
+            "name": "F1 Delta Time",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/F1DeltaTime.png",
             "hot": 1
         },
         {
-            "url": "https://uniswap.exchange/",
-            "name": "Uniswap",
-            "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/dapps/uniswap.io.png",
-            "hot": 0
+            "url": "https://www.evolution.land/",
+            "name": "EvolutionLand",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/EvolutionLand.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://play.mcp3d.com/ethereum",
+            "name": "MegaCryptoPolis",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/MegaCryptoPolis.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://leagueofkingdoms.com/",
+            "name": "League of Kingdoms",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/LeagueofKingdoms.png",
+            "hot": 1
+        },
+        {
+            "url": "https://blockchaincuties.com/",
+            "name": "Blockchain Cuties",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BlockchainCuties.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://cryptodozer.io/",
+            "name": "CryptoDozer",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CryptoDozer.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://bravefrontierheroes.com/",
+            "name": "BRAVE FRONTIER HEROES",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BRAVEFRONTIERHEROES.png",
+            "hot": 1
+        },
+        {
+            "url": "https://0xuniverse.com/",
+            "name": "0xUniverse",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/0xUniverse.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://www.superworldapp.com//",
+            "name": "SuperWorld AR Real Estate",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/SuperWorldARRealEstate.png",
+            "hot": 1
+        },
+        {
+            "url": "https://game.lordless.io/",
+            "name": "LORDLESS",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/LORDLESS.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://godsunchained.com/",
+            "name": "Gods Unchained",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Gods Unchained.png",
+            "hot": 1
+        },
+        {
+            "url": "https://synergyofserra.com/",
+            "name": "Synergy of Serra",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/SynergyofSerra.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.tapplatform.io/",
+            "name": "The Tap Platform",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/The Tap Platform.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.mobox.io/",
+            "name": "MOBOX: NFT Farmer",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/MOBOXNFTFarmer.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.cryptoblades.io/",
+            "name": "CryptoBlades",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CryptoBlades.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://xwg.games/",
+            "name": "X World Games",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/XWorldGames.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://foxynft.org/",
+            "name": "Foxy Equilibrium",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/FoxyEquilibrium.png",
+            "hot": 1
+        },
+        {
+            "url": "https://dungeonswap.app/",
+            "name": "DungeonSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/DungeonSwap.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://nftbox.vip/",
+            "name": "NFTBox",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/NFTBox.png",
+            "hot": 1
+        },
+        {
+            "url": "https://apwars.farm/",
+            "name": "ApWars",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ApWars.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://cryptoracing.vip/",
+            "name": "CryptoRacingVIP",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CryptoRacingVIP.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://nightlifecrypto.com/",
+            "name": "Night Life Crypto",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/NightLifeCrypto.png",
+            "hot": 1
+        },
+        {
+            "url": "https://bsc.seascape.network/index/product/circus.html",
+            "name": "Profit Circus S2 BSC",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ProfitCircusS2BSC.png",
+            "hot": 1
+        },
+        {
+            "url": "https://ultiarena.com/",
+            "name": "UltiArena",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/UltiArena.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.mezurashigame.com/",
+            "name": "Mezurashi",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Mezurashi.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.arenaswap.com/",
+            "name": "ArenaSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ArenaSwap.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://bsc.seascape.network/index/product/saloon.html?",
+            "name": "Staking Saloon S2 BSC",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/StakingSaloonS2BSC.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.nftbossbattles.com/",
+            "name": "NFT Boss Battles",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/NFTBossBattles.png",
+            "hot": 1
+        },
+        {
+            "url": "https://cazicazi.com/",
+            "name": "CAZI CAZI",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CAZICAZI.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://winlambo.fund/",
+            "name": "Winlambo",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Winlambo.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://nashmetaverse.com/",
+            "name": "NASH Metaverse",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/NASHMetaverse.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://www.battlepets.finance/",
+            "name": "Battle Pets",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BattlePets.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.chainzarena.com/",
+            "name": "ChainZ Arena - Play and Earn",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ChainZArena-PlayandEarn.png",
+            "hot": 1
+        },
+        {
+            "url": "https://aavegotchi.com/",
+            "name": "Aavegotchi",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Aavegotchi.png",
+            "hot": 1
+        },
+        {
+            "url": "https://0xuniverse.com/",
+            "name": "0xUniverse",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/0xUniverse.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://bravefrontierheroes.com/",
+            "name": "BRAVE FRONTIER HEROES",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BRAVEFRONTIERHEROES.png",
+            "hot": 1
+        },
+        {
+            "url": "https://swap.cometh.io/",
+            "name": "Cometh",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Cometh.png",
+            "hot": 1
+        },
+        {
+            "url": "https://blockchaincuties.com/",
+            "name": "Blockchain Cuties Universe",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BlockchainCutiesUniverse.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://www.mycryptosaga.net/",
+            "name": "My Crypto Saga",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/MyCryptoSaga.png",
+            "hot": 1
+        },
+        {
+            "url": "https://zed.run/",
+            "name": "ZED RUN",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ZEDRUN.png",
+            "hot": 1
+        },
+        {
+            "url": "https://neondistrict.io/",
+            "name": "Neon District",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/NeonDistrict.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://www.mycryptoheroes.net/",
+            "name": "My Crypto Heroes",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/MyCryptoHeroes.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://polymonmonsters.com/",
+            "name": "Polygon Monsters",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PolygonMonsters.png",
+            "hot": 1
+        },
+        {
+            "url": "https://arena.cryptocolosseum.com/",
+            "name": "Crypto Colosseum",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CryptoColosseum.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://play.mcp3d.com/",
+            "name": "MegaCryptoPolis",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/MegaCryptoPolis.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://chaino.chaingames.io/",
+            "name": "Chaino",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Chaino.png",
+            "hot": 1
+        },
+        {
+            "url": "https://axieinfinity.com/",
+            "name": "Drakons",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Drakons.png",
+            "hot": 1
+        },
+        {
+            "url": "https://embersword.com/",
+            "name": "Ember Sword",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/EmberSword.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://synergyofserra.com/",
+            "name": "Synergy of Serra",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/SynergyofSerra.png",
+            "hot": 1
+        },
+        {
+            "url": "https://pirates2048.com/",
+            "name": "Pirates 2048",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Pirates2048.png",
+            "hot": 1
+        },
+        {
+            "url": "https://cryptopick.net/",
+            "name": "CryptoPick",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CryptoPick.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.harborbcg.net/",
+            "name": "Harbor Bcg",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/HarborBcg.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://defiofthrones.io/",
+            "name": "DeFi of Thrones",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/DeFiofThrones.png",
+            "hot": 1
+        }
+    ],
+    "DEFI":
+        [{
+            "url": "https://app.uniswap.org/",
+            "name": "Uniswap V3",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/UniswapV3.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://shibaswap.com/#/",
+            "name": "ShibaSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ShibaSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://1inch.exchange/#/",
+            "name": "1inch Network on Ethereum",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/1inchNetworkonEthereum.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.convexfinance.com/",
+            "name": "Convex Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ConvexFinance.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://app.aave.com/",
+            "name": "Aave V2",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/AaveV2.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://hex.com/",
+            "name": "HEX",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/HEX.png",
+            "hot": 1
+        },
+        {
+            "url": "https://beta.curve.fi/",
+            "name": "Curve",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Curve.png",
+            "hot": 1
+        },
+        {
+            "url": "https://dydx.exchange/",
+            "name": "dYdX",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/dYdX.png",
+            "hot": 1
+        },
+        {
+            "url": "https://dappradar.com/ethereum/defi/compound",
+            "name": "Compound",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Compound.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.synthetix.io/",
+            "name": "Synthetix",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Synthetix.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.alchemix.fi/",
+            "name": "Alchemix",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Alchemix.png",
+            "hot": 1
+        },
+        {
+            "url": "https://eswap.tube/",
+            "name": "Eswap.tube",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Eswap.tube.png",
+            "hot": 1
+        },
+        {
+            "url": "https://mirror.finance/",
+            "name": "Mirror",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Mirror.png",
+            "hot": 1
+        },
+        {
+            "url": "https://v2beta.dodoex.io/",
+            "name": "DODO v2",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/DODOv2.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.flexa.network/",
+            "name": "Flexa",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Flexa.png",
+            "hot": 1
+        },
+        {
+            "url": "https://dogpark.sanshuinufinance.com/",
+            "name": "Sanshu Inu - Dog Park",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/SanshuInu-DogPark.png",
+            "hot": 1
+        },
+        {
+            "url": "https://fei.money/",
+            "name": "Fei Protocol",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/FeiProtocol.png",
+            "hot": 1
+        },
+        {
+            "url": "https://cowswap.exchange/#/swap",
+            "name": "CowSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CowSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.badger.finance/",
+            "name": "Badger.Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Badger.Finance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.liquity.fi/",
+            "name": "Liquity",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Liquity.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://pancakeswap.finance/",
+            "name": "PancakeSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PancakeSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://autofarm.network/",
+            "name": "Autofarm",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Autofarm.png",
+            "hot": 1
+        },
+        {
+            "url": "https://biswap.org/",
+            "name": "Biswap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Biswap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://pancakebunny.finance/pool",
+            "name": "Pancake Bunny",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PancakeBunny.png",
+            "hot": 1
+        },
+        {
+            "url": "https://apeswap.finance/",
+            "name": "ApeSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ApeSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://o3swap.com/",
+            "name": "O3 Swap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/O3Swap.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://wifiswap.finance/",
+            "name": "WIFI SWAP",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/WIFISWAP.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://www.rabbitfinance.io/earn",
+            "name": "Rabbit Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/RabbitFinance.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://app.1inch.io/#/56/swap/BNB/1INCH",
+            "name": "1inch Network on BSC",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/1inchNetworkonBSC.png",
+            "hot": 1
+        },
+        {
+            "url": "https://space.tuktuk.finance/",
+            "name": "TukTuk Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/TukTukFinance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://pantherswap.com/",
+            "name": "PantherSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PantherSwap.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://www.wardenswap.com/",
+            "name": "WardenSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/WardenSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.bakeryswap.org/",
+            "name": "BakerySwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BakerySwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://hifarm.finance/",
+            "name": "HIFarm",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/HIFarm.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.alpacafinance.org/",
+            "name": "Alpaca Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/AlpacaFinance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://nominex.io/",
+            "name": "Nominex (NMX)",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Nominex(NMX).png",
+            "hot": 1
+        },
+        {
+            "url": "https://venus.io/",
+            "name": "Venus",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Venus.png",
+            "hot": 1
+        },
+        {
+            "url": "https://ellipsis.finance/",
+            "name": "Ellipsis Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/EllipsisFinance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://hodltoken.net/",
+            "name": "HODL Token",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/HODLToken.png",
+            "hot": 1
+        },
+        {
+            "url": "https://thoreum.finance/",
+            "name": "Thoreum",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Thoreum.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://matic.chumhum.finance/",
+            "name": "Chumhum.Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Chumhum.Finance.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://polycat.finance/",
+            "name": "Polycat Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PolycatFinance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://autofarm.network/polygon/",
+            "name": "Autofarm (Polygon)",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Autofarm(Polygon).png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.sushi.com/swap",
+            "name": "Sushi",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Sushi.png",
+            "hot": 1
+        },
+        {
+            "url": "https://augury.finance/",
+            "name": "Augury Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/AuguryFinance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://adamant.finance/",
+            "name": "Adamant",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Adamant.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.wault.finance/bsc/index.html",
+            "name": "WaultSwap",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/WaultSwap.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.1inch.io/#/137/swap/MATIC/DAI",
+            "name": "1inch Network on Polygon",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/1inchNetworkonPolygon.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.aave.com/",
+            "name": "Aave",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Aave.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://polycrystal.finance/",
+            "name": "PolyCrystal Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PolyCrystalFinance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://farm.boneswap.finance/",
+            "name": "BoneSwap Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BoneSwapFinance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://polyyeld.finance/",
+            "name": "PolyYeld Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PolyYeldFinance.png",
+            "hot": 1
+        },{
+            "url": "https://www.polypulsar.farm/",
+            "name": "Polypulsar",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Polypulsar.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.polypup.finance/",
+            "name": "PolyPup Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PolyPupFinance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.firebird.finance/",
+            "name": "Firebird Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/FirebirdFinance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://polylion.exchange/",
+            "name": "PolyLion",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PolyLion.png",
+            "hot": 1
+        },
+        {
+            "url": "https://farmhero.io/",
+            "name": "FarmHero",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/FarmHero.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://polyroll.org/",
+            "name": "Polyroll",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Polyroll.png",
+            "hot": 1
+        },
+        {
+            "url": "https://app.polyquity.org/",
+            "name": "PolyQuity",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PolyQuity.png",
+            "hot": 1
+        },
+        {
+            "url": "https://polygon.beefy.finance/",
+            "name": "Beefy.Finance",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Beefy.Finance.png",
+            "hot": 1
+        },
+        {
+            "url": "https://kogefarm.io/",
+            "name": "KogeFarm",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/KogeFarm.png",
+            "hot": 1
+        }
+    ],
+   "NFT":
+        [{
+            "url": "http://test.nftobr.com",
+            "name": "NFTOBR",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/NFTOBR.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://axieinfinity.com/",
+            "name": "Axie Infinity",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/AxieInfinity.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.larvalabs.com/cryptopunks",
+            "name": "CryptoPunks",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CryptoPunks.png",
+            "hot": 1
+        },
+        {
+            "url": "https://boredapeyachtclub.com/#/",
+            "name": "Bored Ape Yacht Club",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/BoredApeYachtClub.png",
+            "hot": 1
+        },
+        {
+            "url": "https://meebits.larvalabs.com/",
+            "name": "Meebits",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Meebits.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.coolcatsnft.com/",
+            "name": "Cool Cats",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CoolCats.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://rarible.com/",
+            "name": "Rarible",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Rarible.png",
+            "hot": 1
+        },
+        {
+            "url": "https://veefriends.com/",
+            "name": "VeeFriends",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/VeeFriends.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://artblocks.io/",
+            "name": "Art Blocks",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/ArtBlocks.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://punkscomic.com/",
+            "name": "PUNKS Comic",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/PUNKSComic.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.sandbox.game/",
+            "name": "The Sandbox",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/TheSandbox.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.somniumspace.com/",
+            "name": "Somnium Space",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/SomniumSpace.png",
+            "hot": 1
+        },
+        {
+            "url": "https://aavegotchi.com/",
+            "name": "Aavegotchi",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Aavegotchi.png",
+            "hot": 1
+        },
+        {
+            "url": "https://foundation.app/",
+            "name": "Foundation",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Foundation.png",
+            "hot": 1
+        },
+        {
+            "url": "https://www.cryptovoxels.com/",
+            "name": "CryptoVoxels",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/CryptoVoxels.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://nonfungibleapes.wtf/",
+            "name": "Non Fungible Apes",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/NonFungibleApes.png",
+            "hot": 1
+        },
+        {
+            "url": "https://illuvium.io/",
+            "name": "Illuvium",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Illuvium.png",
+            "hot": 1
+        },
+        {
+            "url": "https://avastars.io/",
+            "name": "Avastars",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/Avastars.png",
+            "hot": 1
+        },
+        {
+            "url": "https://embersword.com/",
+            "name": "Ember Sword",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/EmberSword.jpg",
+            "hot": 1
+        },
+        {
+            "url": "https://decentraland.org/blog/project-updates/manage-names-in-the-builder/",
+            "name": "Decentraland Names",
+            "logo": "https://raw.githubusercontent.com/ApolloDevsGroup/julwallet-dapp-list/main/DecentralandNames.png",
+            "hot": 1
         }
     ]
 }
